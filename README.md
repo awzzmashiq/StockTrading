@@ -1,5 +1,5 @@
 Backend
-	- : Open Backend folder in intellije
+	- : Open Backend folder in intellij
 	- : Go to application.properties file
 	- : change data base credential, like username, password, and create database
 	- : for email give your app password
